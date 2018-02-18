@@ -7,7 +7,7 @@ console.log(products);
 
 var body = document.querySelector('body');
 var list = document.createElement('UL');
-body.prepend(list);
+body.append(list);
 
 for(var i = 0; i<products.length; i++) {
     var object = document.createElement('LI');
