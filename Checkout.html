@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<form  id="checkOutForm" action="Validation.html" name="userinfo">
+    <label for="firstname">Firstname</label>
+    <input id="firstname" type="text" required>
+    <p id="firstnameerror"></p>
+
+    <label for="lastname">lastname</label>
+    <input id="lastname" type="text" required>
+    <p id="lastnameerror"></p>
+
+    <label for="email">Email</label>
+    <input id="email" type="email" required>
+    <p id="mailerror"></p>
+
+    <label for="phonenumber">Number</label>
+    <input id="phonenumber" type="text">
+    <p id="phoneerror"></p>
+
+    <label for="streetadress">Streetadress</label>
+    <input id="streetadress" type="text" required>
+    <p id="adresserror"></p>
+
+    <label for="zipcode">Zip-code</label>
+    <input id="zipcode" type="text" required>
+    <p id="ziperror"></p>
+
+    <label for="city">City</label>
+    <input id="city" type="text" required>
+    <p id="cityerror"></p>
+
+    <label for="comment">comment</label>
+    <textarea name="comments" id="comment" cols="30" rows="10"></textarea>
+
+    <button type="button">Submit</button>
+</form>
+<script src="checkout.js"></script>
+</body>
+</html>
