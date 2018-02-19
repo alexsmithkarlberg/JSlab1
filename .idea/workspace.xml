@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d12f81-e1fc-4c3c-a507-629661d58cd8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Checkout.html" afterPath="$PROJECT_DIR$/Checkout.html" />
-      <change beforePath="$PROJECT_DIR$/Prducts.html" afterPath="$PROJECT_DIR$/Prducts.html" />
-      <change beforePath="$PROJECT_DIR$/Validation.html" afterPath="$PROJECT_DIR$/Validation.html" />
       <change beforePath="$PROJECT_DIR$/checkout.js" afterPath="$PROJECT_DIR$/checkout.js" />
-      <change beforePath="$PROJECT_DIR$/mainjs.js" afterPath="$PROJECT_DIR$/mainjs.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Checkout.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Checkout.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Checkout.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -44,14 +39,14 @@
       <file leaf-file-name="checkout.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/checkout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="816">
+              <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Validation.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Validation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Validation.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -87,11 +82,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/checkout.js" />
         <option value="$PROJECT_DIR$/mainjs.js" />
         <option value="$PROJECT_DIR$/Checkout.html" />
         <option value="$PROJECT_DIR$/Prducts.html" />
         <option value="$PROJECT_DIR$/Validation.html" />
+        <option value="$PROJECT_DIR$/checkout.js" />
       </list>
     </option>
   </component>
@@ -170,12 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518891421791</updated>
       <workItem from="1518891422942" duration="11270000" />
-      <workItem from="1518977181450" duration="8405000" />
+      <workItem from="1518977181450" duration="9617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19675000" />
+    <option name="totallyTimeSpent" value="20887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -259,22 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/checkout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Checkout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prducts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -287,6 +266,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
