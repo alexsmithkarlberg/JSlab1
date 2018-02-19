@@ -1,21 +1,20 @@
+/*patterns*/
 var zippat = /^\d{3}\s?\d{2}$/;
 var phonepat = /^[+]*[(]{0,1}[0-9]{1,3}[)]{0,1}[-\s\./0-9]*$/;
 var namepat = /^[A-Za-z\s]+$/;
 var mailpat = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
 
-var zipcode = document.querySelector('#zipcode');
-var firstname = document.querySelector('#firstname');
-var lastname = document.querySelector('#lastname');
-var city = document.querySelector('#city');
-var email = document.querySelector('#email');
-var phonenumber = document.querySelector('#phonenumber');
+/*User-Inputs*/
 var inputs = document.querySelectorAll('.myInputs');
+
+/*where to type our error*/
 var errors = document.querySelectorAll('.error');
 
 
-
+/*bool to check statements & submit form*/
 var bool = true;
 
+/*Validation function*/
 document.querySelector('button[type="button"]').addEventListener('click', function(){
     bool = true;
     for (var i =0; i<inputs.length; i++) {
@@ -44,6 +43,7 @@ document.querySelector('button[type="button"]').addEventListener('click', functi
            }
         }
 }
+/*submit form*/
     if (bool === true) {
         document.querySelector('#checkOutForm').submit();
     }});
